@@ -1,5 +1,5 @@
 ---
-name: Build, Push and Deploy
+name: Build, Push and Deploy2
 
 on:
   pull_request:
